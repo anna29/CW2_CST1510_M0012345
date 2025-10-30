@@ -1,0 +1,1 @@
+print('I hope this project will be enjoyable')
